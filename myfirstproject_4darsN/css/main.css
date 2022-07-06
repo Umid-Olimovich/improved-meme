@@ -1,0 +1,199 @@
+.senter{
+  text-align: center;
+  background-color: rgb(236, 249, 249);
+}
+.rasm{
+  vertical-align: middle;
+  display: inline-block;
+  width: 150px;
+}
+.links{
+  margin: 50px;
+  list-style: none;
+  display: inline-block;
+}
+.linksitem{
+  display: inline-block;
+  margin: 10px;
+}
+.card{
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  text-align: justify;
+  border-bottom: 100px;
+  margin-right: 250px;
+}
+.card1{
+   font-size: 40px;
+
+}
+.card2{
+margin-bottom: 180px;
+color: rgb(65, 70, 68);
+
+}
+.rasm1{
+  display: inline-block;
+  width: 300px;
+  margin-right: 300px;
+}
+.products{
+  border:1px solid rgb(194, 227, 239);
+
+}
+.our_servis{
+  display: inline-block;
+  border: 1px solid rgb(200, 241, 240);
+  width: 900px;
+}
+.panelManu{
+  display: inline-block;
+  width: 1100px;
+}
+.ulclass{
+  display: inline-block;
+  text-align: justify;
+  margin-top: 5px ;
+  margin-bottom: 5px;
+}
+.liteg{
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+}
+.btn1{
+  border: 1.4px solid rgba(10, 64, 190, 0.64);
+  border-radius: 55px;
+  color: rgb(21, 76, 116);
+  width: 200px;
+  height: 56px;
+}
+.Leading_div{
+  display: inline-block;
+  text-align: justify;
+margin-right: 200px;
+margin-left: 100px;
+  
+}
+.leadinrasm{
+display: inline-block;
+width: 600px;
+height: 500px;
+margin-left: 100px;
+margin-right: 100px;
+
+}
+.leadinrasm img{
+  width: 100%;
+}
+.text1{
+  margin-bottom: 0 auto;
+  font-size: 40px;
+}
+.text12{
+  margin-top: 0 auto;
+  
+}
+.text123{
+  margin-bottom: 30px;
+  color: rgb(83, 81, 79);
+}
+.btn12{
+  border: 1.4px solid rgba(10, 64, 190, 0.64);
+  border-radius: 55px;
+  color: rgb(21, 76, 116);
+  width: 200px;
+  height: 56px;
+}
+
+.card21{
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  text-align: justify;
+  
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.card211{
+  font-size: 40px;
+
+}
+.card213{
+  margin-bottom: 60px;
+  color: rgb(65, 70, 68);
+  
+  }
+  .rasm21{
+    display: inline-block;
+    width: 300px;
+    margin-right: 200px;
+    margin-left: 50px;
+  }
+  .bt1{
+    margin-bottom: 60px;
+  }
+
+.customer_section{
+  display: inline-block;
+  position: absolute;
+  width: 980px;
+  height: 425px;
+  left: 240px;
+  top: 2590px;
+  background-image: url(./img/image1.png);
+  text-align: center;
+  color: white;
+  border-radius: 30px;
+  background-color: aqua;
+  
+
+}
+.customer_header{
+   font-size: 24px;
+ }
+.customer_line{
+  display: inline-block;
+  background-color: rgb(241, 234, 234);
+  width: 56px;
+  height: 2px;
+}
+.customer_img{
+  position: absolute;
+  left: 124px;
+  top: 179px;
+  
+}
+.rasm1231{
+  border-radius: 70px;
+  border: 2px solid white;
+}
+.customer_name{
+  position: absolute;
+  left: 294px;
+  top: 199px;
+}
+.customer_pasition{
+  position: absolute;
+  left: 294px;
+  top: 230px;
+  color: white;
+}
+.customer_speech{
+  position: absolute;
+  left: 500px;
+  width: 300px;
+  top: 180px;
+  line-height: 30px;
+}
+.lot{
+  display: inline-block;
+  position: absolute;
+  width: 980px;
+  height: 425px;
+  left: 240px;
+  top: 3000px;
+  font-size: 50px;
+  color: aqua;
+}
